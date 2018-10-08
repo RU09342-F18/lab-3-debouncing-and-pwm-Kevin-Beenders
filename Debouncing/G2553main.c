@@ -2,7 +2,8 @@
 
 /**Date Created: 10/1/18
    Date Last Edited: 10/5/2018
-   Author: Colin Craig
+   Author: Kevin Beenders
+   With reference to: Colin Craig
    MSP430G2553 Software Debouncing
    */
 void LEDSetup()
